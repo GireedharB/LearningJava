@@ -37,6 +37,7 @@ public class AutomationPractice {
 		driver.findElement(By.name("websubmit")).click();
 		Thread.sleep(2000);
 		System.out.println("All done");
+		// Test comment
 		
 		driver.close();
 		
